@@ -30,7 +30,7 @@ const Signuppage = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await axios.post("http://localhost:5000/users/register", {
+      const response = await axios.post("https://geo-data-app-t6t1.onrender.com/users/register", {
         username,
         email,
         password,
