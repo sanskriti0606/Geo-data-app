@@ -62,7 +62,7 @@ const Mapcomponent = () => {
     try {
       const userId = localStorage.getItem("userId");
       const response = await axios.post(
-        `http://localhost:5000/users/saveGeoJSON/${userId}`,
+        `https://geo-data-app-t6t1.onrender.com/users/saveGeoJSON/${userId}`,
         { GeoJSONData: geoData },
         {
           headers: {
