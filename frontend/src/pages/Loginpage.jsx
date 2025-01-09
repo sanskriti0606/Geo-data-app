@@ -29,7 +29,7 @@ const Loginpage = () => {
     e.preventDefault();
 
     try {
-      const response = await axios.post("http://localhost:5000/users/login", {
+      const response = await axios.post("https://geo-data-app-t6t1.onrender.com/users/login", {
         email,
         password,
       });
