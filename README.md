@@ -67,34 +67,16 @@ Frontend Deployment: https://sky-serve-geojson.vercel.app/
 
   <br>
 
-- Modal showing Login successfull
+- Map component
   
  ![DashboardPage_Pic](![image](https://github.com/user-attachments/assets/f954c373-4c46-46a1-9afa-ddfe45284c8a)
 
- 
-<br>
-  
 
-- Map component
-  
-![](![Uploading image.png…]()
 
 
 <br>
 
-- Autheticated user can select the area on the map.
-  
-![ProfilePage_Pic](https://github.com/Nishant6571/skyServe_assignment/blob/main/frontend/src/assets/image5.png)
 
-<br>
-
-  
-
-- At last user can save the data by clicking on save button.
-  
-![AboutPage_Pic](https://github.com/Nishant6571/skyServe_assignment/blob/main/frontend/src/assets/image6.png)
-
-<br>
 
 
 ### Conclusion
