@@ -57,24 +57,28 @@ Frontend Deployment: https://sky-serve-geojson.vercel.app/
 
 - Login/Signup functionality
   
- ![LoginPage_Pic](https://github.com/Nishant6571/skyServe_assignment/blob/main/frontend/src/assets/image1.png)
+ ![LoginPage_Pic]![image](https://github.com/user-attachments/assets/74ac1108-269c-4308-b99f-8415ac8c110f)
+
   
 <br>
 
- ![LoginPage_Pic](https://github.com/Nishant6571/skyServe_assignment/blob/main/frontend/src/assets/image2.png)
+ ![LoginPage_Pic]![image](https://github.com/user-attachments/assets/f073f5fb-400a-4982-b64e-139aea42bdab)
+
 
   <br>
 
 - Modal showing Login successfull
   
- ![DashboardPage_Pic](https://github.com/Nishant6571/skyServe_assignment/blob/main/frontend/src/assets/image3.png)
+ ![DashboardPage_Pic](![image](https://github.com/user-attachments/assets/f954c373-4c46-46a1-9afa-ddfe45284c8a)
+
  
 <br>
   
 
 - Map component
   
-![](https://github.com/Nishant6571/skyServe_assignment/blob/main/frontend/src/assets/image4.png)
+![](![Uploading image.png…]()
+
 
 <br>
 
