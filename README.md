@@ -1,7 +1,6 @@
-# Geolocator App Documentation
-## Introduction
-The Geolocator App is a web application designed to provide geolocation services to users. It allows users to mark locations on a map, view them, and perform various operations related to geographical data. This document outlines the architecture, setup instructions, and usage guidelines for the Geolocator App.
-                                                       
+# Geo-data App Documentation
+### Overview
+The Geolocator App is a web application that provides geolocation services to users. It allows users to interact with a map, mark locations, view them, and perform various operations related to geographical data, such as adding, updating, and deleting markers. The app uses modern web technologies to ensure a smooth, responsive, and intuitive user experience.                                                       
 ## Technologies Used
 ### Backend:
 Express.js </br>
@@ -16,13 +15,6 @@ JSON Web Token (jsonwebtoken)</br>
 
 ## Setup Instructions
 #### Backend Setup
-
-### Navigate to the backend directory.
-
-```bash
-cd backend
-```
-
 ### Install dependencies.
 ```bash
 npm i
@@ -34,10 +26,6 @@ Configure environment variables. Ensure you have MongoDB installed and running. 
 npm run server
 ```
 #### Frontend Setup
-### Navigate to the frontend directory.
-```bash
-cd frontend
-```
 ### Install dependencies.
 ```bash
 npm install
@@ -70,13 +58,7 @@ Frontend Deployment: https://geo-data-app-six.vercel.app/
  ![DashboardPage_Pic](![image](https://github.com/user-attachments/assets/f954c373-4c46-46a1-9afa-ddfe45284c8a)
 
 
-
-
 <br>
 
 
-
-
-### Conclusion
-The Geolocator App provides a seamless platform for users to mark, view, edit, and delete locations on a map. With its intuitive interface and robust backend, it offers an efficient solution for managing geographical data.
   
