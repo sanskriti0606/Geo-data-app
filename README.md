@@ -50,8 +50,8 @@ npm run dev
 ```
 
 ## Deployment
-Backend Deployment: https://skyserve-assignment.onrender.com/
-Frontend Deployment: https://sky-serve-geojson.vercel.app/
+Backend Deployment: https://geo-data-app-t6t1.onrender.com/
+Frontend Deployment: https://geo-data-app-six.vercel.app/
 
 ## Features
 
