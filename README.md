@@ -43,19 +43,18 @@ Frontend Deployment: https://geo-data-app-six.vercel.app/
 
 - Login/Signup functionality
   
- ![LoginPage_Pic]![image](https://github.com/user-attachments/assets/74ac1108-269c-4308-b99f-8415ac8c110f)
+ ![image](https://github.com/user-attachments/assets/74ac1108-269c-4308-b99f-8415ac8c110f)
 
   
 <br>
 
- ![LoginPage_Pic]![image](https://github.com/user-attachments/assets/f073f5fb-400a-4982-b64e-139aea42bdab)
+ ![image](https://github.com/user-attachments/assets/f073f5fb-400a-4982-b64e-139aea42bdab)
 
 
   <br>
 
-- Map component
   
- ![DashboardPage_Pic](![image](https://github.com/user-attachments/assets/f954c373-4c46-46a1-9afa-ddfe45284c8a)
+ ![image](https://github.com/user-attachments/assets/f954c373-4c46-46a1-9afa-ddfe45284c8a)
 
 
 <br>
