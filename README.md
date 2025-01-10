@@ -1,6 +1,6 @@
 # Geo-data App Documentation
 ### Overview
-The Geolocator App is a web application that provides geolocation services to users. It allows users to interact with a map, mark locations, view them, and perform various operations related to geographical data, such as adding, updating, and deleting markers. The app uses modern web technologies to ensure a smooth, responsive, and intuitive user experience.                                                       
+The Geo-data App is a web application that provides geolocation services to users. It allows users to interact with a map, mark locations, view them, and perform various operations related to geographical data, such as adding, updating, and deleting markers. The app uses modern web technologies to ensure a smooth, responsive, and intuitive user experience.                                                       
 ## Technologies Used
 ### Backend:
 Express.js </br>
