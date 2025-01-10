@@ -24,7 +24,7 @@ const Navbar = () => {
         justifyContent: "space-between",
         alignItems: "center",
         width: "100%",
-        backgroundColor: "#333333", // Spotify's signature green
+        backgroundColor: "#333333", 
         padding: "0 20px",
         boxSizing: "border-box",
       }}
@@ -37,7 +37,7 @@ const Navbar = () => {
           margin: 0,
         }}
       >
-        GeoLocator
+        Geo-Data 
       </h1>
 
       {isLoggedIn && (
@@ -45,11 +45,11 @@ const Navbar = () => {
           <Button
             borderRadius="30px"
             backgroundColor="white"
-            color="#1A3D3B" // Matching button color to Spotify green
+            color="#1A3D3B" 
             onClick={handleLogout}
             size="sm"
             _hover={{
-              backgroundColor: "#1DB954", // Hover effect
+              backgroundColor: "#1DB954",
               color: "white",
             }}
           >
